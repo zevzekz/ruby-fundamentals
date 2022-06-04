@@ -1,0 +1,43 @@
+2
+WAVE RUNNER
+CAPSULE
+Pop
+8
+Wave Runner
+Music\waverunner\01-Wave_Runner.wav
+Another World
+Music\waverunner\02-Another_World.wav
+DreaminBoy
+Music\waverunner\03-DreaminBoy.wav
+Hero
+Music\waverunner\04-Hero.wav
+Dancing Planet
+Music\waverunner\05-Dancing_Planet.wav
+Depth vocal dub mix
+Music\waverunner\06-Depth.wav
+Feel Again
+Music\waverunner\07-Feel_Again.wav
+Unrequited Love
+Music\waverunner\08-Unrequited_Love.wav
+IGOR
+Tyler, The Creator
+Rap
+9
+IGOR'S THEME
+Music\igor\01-IGORS_THEME.wav
+EARFQUAKE
+Music\igor\02-EARFQUAKE.wav
+I THINK
+Music\igor\03-I_THINK.wav
+EXACTLY WHAT YOU RUN FROM YOU END UP CHASING
+Music\igor\04-EXACTLY_WHAT_YOU_RUN_FROM_YOU_END_UP_CHASING.wav
+NEW MAGIC WAND
+Music\igor\05-NEW_MAGIC_WAND.wav
+A BOY IS A GUN*
+Music\igor\06-A_BOY_IS_A_GUN.wav
+PUPPET
+Music\igor\07-PUPPET.wav
+WHAT'S GOOD
+Music\igor\08-WHATS_GOOD.wav
+GONE, GONE/ THANK YOU
+Music\igor\09-GONE_GONE_THANK_YOU.wav
